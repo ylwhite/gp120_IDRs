@@ -1,0 +1,1 @@
+以各个IDR的disorder值为特征，在DT、XGBoost和RF三个机器学习模型中（敏感和抵抗两种序列）进行分类的ACC。
